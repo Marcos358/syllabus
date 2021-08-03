@@ -1,0 +1,37 @@
+#+title: Introdução ao Processamento de Linguagem Natural
+#+author: Alexandre Rademaker
+
+https://github.com/emap-nlp
+
+* aula 1
+
+  - matemática e linguistica
+    https://encyclopediaofmath.org/wiki/Mathematical_linguistics
+
+* aula 2
+
+  - tutorial FOMA and FST
+    http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+
+  - https://fomafst.github.io/morphtut.html
+
+  - https://ling.sprachwiss.uni-konstanz.de/pages/home/boegel/Dateien/CLT09_tutorial.pdf
+    
+
+* Referencias
+
+  - https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020
+  - https://press.uchicago.edu/ucp/books/book/distributed/F/bo3613750.html
+
+* Courses
+
+  - https://www.cl.cam.ac.uk/teaching/1920/NLP/materials.html
+  - https://www.cl.cam.ac.uk/teaching/1415/NLP/materials.html
+
+  - https://sites.pitt.edu/~naraehan/ling1330/index.html
+
+
+* Libraries
+
+  - http://www.nltk.org
+    
