@@ -5,6 +5,8 @@ https://github.com/emap-nlp
 
 * aula 1
 
+  - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides1.pdf
+
   - https://youtu.be/8rXD5-xhemo?t=845 language is an increadible new
     device for humans!
 
@@ -12,6 +14,8 @@ https://github.com/emap-nlp
     https://encyclopediaofmath.org/wiki/Mathematical_linguistics
 
 * aula 2
+
+  - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides2.pdf
 
   - tutorial FOMA and FST
     http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
