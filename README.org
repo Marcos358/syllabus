@@ -5,6 +5,9 @@ https://github.com/emap-nlp
 
 * aula 1
 
+  - https://youtu.be/8rXD5-xhemo?t=845 language is an increadible new
+    device for humans!
+
   - matemática e linguistica
     https://encyclopediaofmath.org/wiki/Mathematical_linguistics
 
@@ -20,7 +23,9 @@ https://github.com/emap-nlp
 
 * Referencias
 
+  - https://web.stanford.edu/~jurafsky/slp3/
   - https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020
+  - https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043
   - https://press.uchicago.edu/ucp/books/book/distributed/F/bo3613750.html
 
 * Courses
