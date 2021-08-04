@@ -17,9 +17,9 @@ https://github.com/emap-nlp
     http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
 
   - https://fomafst.github.io/morphtut.html
-
   - https://ling.sprachwiss.uni-konstanz.de/pages/home/boegel/Dateien/CLT09_tutorial.pdf
-    
+  - https://github.com/LR-POR/MorphoBr/
+  - http://openwordnet-pt.org 
 
 * Referencias
 
@@ -27,6 +27,8 @@ https://github.com/emap-nlp
   - https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020
   - https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043
   - https://press.uchicago.edu/ucp/books/book/distributed/F/bo3613750.html
+
+  - http://www.portaldalinguaportuguesa.org    
 
 * Courses
 
