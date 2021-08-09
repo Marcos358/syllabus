@@ -3,6 +3,10 @@
 
 https://github.com/emap-nlp
 
+* Monitoria
+  
+Monitoria: Sexta 14:20 - 16:20 (@yfaria)
+
 * aula 1
 
   - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides1.pdf
@@ -23,7 +27,16 @@ https://github.com/emap-nlp
   - https://fomafst.github.io/morphtut.html
   - https://ling.sprachwiss.uni-konstanz.de/pages/home/boegel/Dateien/CLT09_tutorial.pdf
   - https://github.com/LR-POR/MorphoBr/
-  - http://openwordnet-pt.org 
+  - http://openwordnet-pt.org
+
+
+* aula 3
+
+  - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides2.pdf
+
+  - tutorial FOMA and FST
+    http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+
 
 * Referencias
 
@@ -38,7 +51,7 @@ https://github.com/emap-nlp
 
 * Courses
 
-  - https://www.cl.cam.ac.uk/teaching/1920/NLP/materials.html
+  - https://www.cl.cam.ac.uk/teaching/1920/NLP/materials.html  (curso que vamos seguir)
   - https://www.cl.cam.ac.uk/teaching/1415/NLP/materials.html
 
   - https://sites.pitt.edu/~naraehan/ling1330/index.html
