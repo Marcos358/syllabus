@@ -7,36 +7,45 @@ https://github.com/emap-nlp
   
 Monitoria: Sexta 14:20 - 16:20 (@yfaria)
 
-* aula 1
+* aula 1 <2021-08-02 Mon>
 
   - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides1.pdf
 
   - https://youtu.be/8rXD5-xhemo?t=845 language is an increadible new
-    device for humans!
+  device for humans!
 
   - matemática e linguistica
-    https://encyclopediaofmath.org/wiki/Mathematical_linguistics
+  https://encyclopediaofmath.org/wiki/Mathematical_linguistics
 
-* aula 2
+* aula 2 <2021-08-04 Wed>
 
   - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides2.pdf
 
   - tutorial FOMA and FST
-    http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+  http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+
+  Outras referências:
 
   - https://fomafst.github.io/morphtut.html
   - https://ling.sprachwiss.uni-konstanz.de/pages/home/boegel/Dateien/CLT09_tutorial.pdf
   - https://github.com/LR-POR/MorphoBr/
   - http://openwordnet-pt.org
 
+* aula 3 <2021-08-09 Mon>
 
-* aula 3
+  - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides2.pdf
+
+  - tutorial FOMA and FST
+  http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
+
+* aula 4 <2021-08-11 Wed>
 
   - https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides2.pdf
 
   - tutorial FOMA and FST
     http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
 
+  - hands-on
 
 * Referencias
 
