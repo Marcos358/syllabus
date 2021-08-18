@@ -1,0 +1,15 @@
+
+# Video https://youtu.be/F8F422GldwY
+
+define Alphabet [ {a} | {g} | {n} | {ng} | {gh} ];
+
+define InsertBrackets [ Alphabet.r @-> %} ... %{ ].r;
+
+push InsertBrackets
+
+# Expected behaviour:
+#
+# foma[1]: down ana
+# {a}{n}{a}
+# foma[1]: down angha
+# {a}{n}{gh}{a}
