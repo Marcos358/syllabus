@@ -61,8 +61,34 @@ Monitoria: Sexta 14:20 - 16:20 (@yfaria)
     https://www.cl.cam.ac.uk/teaching/1920/NLP/slides/slides3.pdf e
     caps 2 e 8 de https://web.stanford.edu/~jurafsky/slp3/.
   - exemplos no NLTK notebooks
-  
 
+* aula 7 <2021-08-23 Mon>
+
+  - revisão pos tagging
+    - n-grams e HMM
+    - tagsets
+    - errors: diferentes erros com diferentes impactos, distribuição
+      por sentença? propagação de erros.
+    - datasets: custo para criar, importância, formatos etc.
+  - notas finais sobre os notebooks
+
+* aula 8 <2021-08-25 Wed>
+
+  - anotação de entidades nomeadas (sec 8.3
+    https://web.stanford.edu/~jurafsky/slp3/8.pdf)_
+  - ferramenta https://www.ibm.com/br-pt/cloud/watson-knowledge-studio
+  - demo http://dhbb.mybluemix.net/dhbb/document?id=2927
+  - exemplo de possíveis fontes de dados para dicionários (usados em
+    pré-anotação):
+    https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil_por_popula%C3%A7%C3%A3o_(2020)
+  - problema relacionado, entity linking: http://www.wikifier.org/
+  - outra biblioteca de NLP com bom suporte Português - afinal eu
+    contribui com isso! ;-) -
+    https://freeling-user-manual.readthedocs.io/en/latest/
+
+
+  Nossa Senhora do Carmo vs Igreja do Carmo... https://pt.wikipedia.org/wiki/Nossa_Senhora_do_Carmo
+  
 * Referencias
 
   - https://web.stanford.edu/~jurafsky/slp3/
