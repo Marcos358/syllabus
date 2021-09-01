@@ -96,6 +96,8 @@ Monitoria: Sexta 14:20 - 16:20 (@yfaria)
 * aula 10 <2021-09-01 Wed>
 
   - parsing (slides Thiago UFMG)
+  - sobre parsing https://youtu.be/bxpc9Pp5pZM antecipando discussão sobre algoritmos
+  - https://youtu.be/pF0RgB1dZTU sobre constituintes
 
   
 * Referencias
@@ -115,8 +117,8 @@ Monitoria: Sexta 14:20 - 16:20 (@yfaria)
   - https://www.cl.cam.ac.uk/teaching/1415/NLP/materials.html
 
   - https://sites.pitt.edu/~naraehan/ling1330/index.html
-
-
+  - https://www.youtube.com/c/INF4820 
+      
 * Libraries
 
   - http://www.nltk.org
