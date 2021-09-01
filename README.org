@@ -88,6 +88,15 @@ Monitoria: Sexta 14:20 - 16:20 (@yfaria)
 
 
   Nossa Senhora do Carmo vs Igreja do Carmo... https://pt.wikipedia.org/wiki/Nossa_Senhora_do_Carmo
+
+* aula 9 <2021-08-30 Mon>
+
+  - grammáticas (slides Thiago UFMG)
+
+* aula 10 <2021-09-01 Wed>
+
+  - parsing (slides Thiago UFMG)
+
   
 * Referencias
 
